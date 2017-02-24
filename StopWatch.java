@@ -15,11 +15,14 @@ class StopWatch
 {
 	public static void main(String[] args)
 	{
+<<<<<<< HEAD
 		countTime();
 		
 	}
 	public static void countTime()
 	{
+=======
+>>>>>>> 51759c7dc40d9e8a76c827b248d2d67f57e8f616
 		boolean flag=false;
 		long startTimer=0,endTimer=0;
 		int input=0;
@@ -61,5 +64,9 @@ class StopWatch
 			}
 		}while(input!=0);
 	}
+<<<<<<< HEAD
 }
+=======
+	}
+>>>>>>> 51759c7dc40d9e8a76c827b248d2d67f57e8f616
 }
